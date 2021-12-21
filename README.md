@@ -1,2 +1,2 @@
 # JS
-## My JavaScript lerning history
+## My JavaScript learning history
